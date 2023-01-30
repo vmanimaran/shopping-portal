@@ -29,12 +29,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/udbc/front-end"
+    "url": "https://github.com/certdevprof/shopping-portal"
   },
   "contributors": [
-    "Ian Crosby <ian.daniel.crosby@gmail.com>",
-    "Carlos León <mail@carlosleon.info> (carlosleon.info)"
-    
+    "Lagairogo <admin@lagairogo.com>",
+      
   ],
   "license": "MIT",
   "dependencies": {
